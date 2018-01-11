@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Super Mario Bros/Scenes/Super Mario Bros.unity
+  isLoaded: 1
+  isActive: 1
